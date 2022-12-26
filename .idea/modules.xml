@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/activiresPratiques-Mircoservices.iml" filepath="$PROJECT_DIR$/.idea/activiresPratiques-Mircoservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/billing-service/billing-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/billing-service/billing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/config-service/config-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/order-service/order-service.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Config-Consul-/Architectures-Micro-services-Consul-Vault--main/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
